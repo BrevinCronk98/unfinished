@@ -1,20 +1,49 @@
-# **Unfinished**
+# **Unfinished (business)**
 
 #### Authors: **_Jessica Hvozdovich, Ethan Firpo, Christopher Huber, Brevin Cronk_**
 #### June 18, 2020
 
+<img src="./assets/img/3.png">
+
 ### Description
 
-_This is a 2D game built using the Unity Engine. You play as a ghost who is summoned by characters to help them find the secret amuelet. Gameplay consists of moving through different levels following clues and solving puzzles to reveal the truth! This was our fir st game ever built from start._
+[Play a partial demo here!](https://github.com/jhvozdovich/unfinished)
+
+_Unfinished is a 2D RPG built using the Unity Engine. The user plays as a ghost who is summoned by two NPCs to help them find a secret amulet. Gameplay consists of moving through different levels following clues and solving puzzles to reveal the truth!_
+_From the makers of [Stardew Harvest Crossing](https://github.com/jhvozdovich/stardew_harvest_crossing) and [The Experiment](https://github.com/efirpo/horrorrpg)_
 
 ### Instructions for use:
-Go to where we host our website at ---.
-Or alternatevely you can clone the game and run it on the Unity Editor.
+Most of the game is hosted on gh pages [here](https://github.com/jhvozdovich/unfinished)
+
+The full game is undergoing build troubleshooting. It can be played in full locally, but opening cutscenes do not play with WebGL hosting. To access and edit the source code:
+
+1. Download Unity [here](https://store.unity.com/download-nuo)
+* This project was made in Unity 2019.4.0f1 but can be updated after upload if a newer version is being used.
+2. Clone the repository with the following commands:
+```
+cd Desktop
+git clone https://github.com/jhvozdovich/unfinished.git
+```
+3. Open Unity Hub
+4. Select ADD
+5. Select the cloned directory from your Desktop.
+6. Click create.
+7. To start the game from the beginning within unity.
+* Open the Project tab (Window > General > Project)
+* Select the Assets folder
+* Select the Scenes folder
+* Select Scene MainMenu-0
+* Press the Play button to start the game
+
+Troubleshooting notes
+* All files must be added to build settings under File > Build Settings
+
 
 ### Known Bugs
 
-No bugs have been identified at the time of this update.
-
+Build files require large file storage on GitHub which complicates cloning.
+Cutscene 1 is unable to run in WebGL
+Barriers must be added to cutscene doors, player can walk off screen.
 
 ### Support and Contact Information
 
@@ -32,8 +61,9 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 
 * User wants to play a cute but spooky story driven game?
 * User likes to browse Steam's "new" and "free" categories.
-* User is feeling in a spooky detective game.
-* User wants to be able to Flow through the levels seamlessly
+* User is feeling in a spooky detective game mood.
+* User wants to be able to flow through the levels seamlessly.
+* Boo.
 
 </details>
 
@@ -51,7 +81,7 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 | **Game has home screen** | User Input:"Load game" | Output: “Title screen” |
 | **Game has ending scenes** | User Input:"Run into enemy" | Output: “Bad end scene” |
 | **Game has ambient music** | User Input:"Start game" | Output: “Music plays in loop” |
-| **Cutscene plays after inital room entry to prompt player's actions** | User Input:"Enter room" | Output: "Scene with twins and dialog boxes" |
+| **Cutscene plays after initial room entry to prompt player's actions** | User Input:"Enter room" | Output: "Scene with twins and dialog boxes" |
 | **User can pick up items and add them to inventory** | User Input:"Click "space" near book" | Output: “Book added to inventory” |
 
 </details>
@@ -60,18 +90,16 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 <details>
 <summary> Click here to see Screenshots.</summary>
 
-#### This is a Preview of One of the Rooms Featured in This Game.
+#### The Bedroom!
+<img src="./assets/img/0.png">
+
+#### The Tree Room!
 <img src="./assets/img/1.png">
 
-#### This is a Preview of the Great Hall in our Game!
+#### The Great Hall!
 <img src="./assets/img/2.png">
 
-#### This is a Preview of Our Main Menu!
-<img src="./assets/img/3.png">
-
 </details>
-
-
 
 ### Stretch Goals
 * Leveling system
