@@ -3,13 +3,13 @@
 #### Authors: **_Jessica Hvozdovich, Ethan Firpo, Christopher Huber, Brevin Cronk_**
 #### June 18, 2020
 
-<img src="./Assets/img/0.png">
+<img src="./Assets/img/3.png" width=70%>
 
 ### Description
 
 [Play a partial demo here!](https://jhvozdovich.github.io/unfinished/)
 
-_From the makers of [Stardew Harvest Crossing](https://github.com/jhvozdovich/stardew_harvest_crossing) and [The Experiment](https://github.com/efirpo/horrorrpg)_
+_From the makers of [Stardew Harvest Crossing](https://github.com/jhvozdovich/stardew_harvest_crossing) and [The Experiment](https://github.com/efirpo/horrorrpg)_s
 
 _Unfinished is a 2D RPG built using the Unity Engine. The user plays as a ghost who is summoned by two NPCs to help them find a secret amulet. Gameplay consists of moving through different levels following clues and solving puzzles to reveal the truth!_
 
@@ -92,13 +92,13 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 <summary> Click here to see Screenshots.</summary>
 
 #### The Bedroom!
-<img src="./Assets/img/0.png">
+<img src="./Assets/img/0.png" width=70%>
 
 #### The Tree Room!
-<img src="./Assets/img/1.png">
+<img src="./Assets/img/1.png" width=70%>
 
 #### The Great Hall!
-<img src="./Assets/img/2.png">
+<img src="./Assets/img/2.png" width=70%>
 
 </details>
 
