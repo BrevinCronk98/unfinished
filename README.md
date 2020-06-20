@@ -9,12 +9,18 @@
 
 [Play a partial demo here!](https://jhvozdovich.github.io/unfinished/)
 
-_From the makers of [Stardew Harvest Crossing](https://github.com/jhvozdovich/stardew_harvest_crossing) and [The Experiment](https://github.com/efirpo/horrorrpg)_s
+_From the makers of [Stardew Harvest Crossing](https://github.com/jhvozdovich/stardew_harvest_crossing) and [The Experiment](https://github.com/efirpo/horrorrpg)
 
 _Unfinished is a 2D RPG built using the Unity Engine. The user plays as a ghost who is summoned by two NPCs to help them find a secret amulet. Gameplay consists of moving through different levels following clues and solving puzzles to reveal the truth!_
 
 ### Instructions for use:
 The majority of the game is hosted through WebGL and GHPages [here](https://jhvozdovich.github.io/unfinished/)
+
+Controls:
+* Arrow keys for navigation
+* "J" to interact with the environment
+* When in doubt spam "J!" We're still working on some of the hitboxes. 
+* Some elements are interactable on contact.
 
 The full game is undergoing build troubleshooting. It can be played in full locally, but opening cutscenes are not currently compatible with WebGL hosting. To access and edit the source code:
 
